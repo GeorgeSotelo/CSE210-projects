@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        //Add your last name//
         Console.Write("What is your last name? ");
         string lastname = Console.ReadLine();
 
